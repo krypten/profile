@@ -1,0 +1,501 @@
+{
+  "personal": {
+    "name": "Chaitanya Agrawal",
+    "tagline": "Building secure, intelligent systems that scale",
+    "role": "Senior Software Dev Engineer @ Amazon",
+    "roles": [
+      "Coder",
+      "Technical Leader",
+      "Builder"
+    ],
+    "bio": "Passionate about AI, Android, Security, Robotics, and Immersive Technology",
+    "contact": {
+      "email": "chaitiagrawal@gmail.com",
+      "linkedin": "agrawalchaitanya",
+      "github": "krypten",
+      "medium": "@chaitiagrawal"
+    },
+    "resume": {
+      "url": "/resume.pdf",
+      "filename": "Chaitanya_Agrawal_Resume.pdf"
+    }
+  },
+  "experiences": [
+    {
+      "category": "mobile",
+      "id": "mobile-experience",
+      "title": "Mobile & Distributed Systems",
+      "description": "Leading mobile platform engineering and SDK architecture at global scale, with technical architecture decisions impacting millions of users worldwide through Alexa-enabled devices and high-performance mobile applications.",
+      "icons": {
+        "primary": "smartphone",
+        "secondary": "globe"
+      },
+      "highlights": [
+        {
+          "icon": "globe",
+          "label": "Worldwide Deployment"
+        },
+        {
+          "icon": "users",
+          "label": "Millions of Users"
+        },
+        {
+          "icon": "zap",
+          "label": "SDK Architecture"
+        }
+      ],
+      "callout": {
+        "title": "Global Scale Mobile Architecture",
+        "description": "Technical leadership in defining SDK architecture for Alexa Mobile Assistant, enabling voice AI integration across millions of mobile devices globally. Led mobile platform engineering initiatives supporting worldwide deployment and high-performance applications.",
+        "type": "metrics",
+        "items": [
+          {
+            "value": "Millions",
+            "label": "Global Users"
+          },
+          {
+            "value": "Worldwide",
+            "label": "Deployment"
+          },
+          {
+            "value": "SDK",
+            "label": "Architecture"
+          }
+        ]
+      },
+      "alternateBackground": false,
+      "projects": [
+        {
+          "id": "alexa-mobile-sdk",
+          "year": "2022-Present",
+          "title": "Alexa Mobile Assistant SDK",
+          "company": "Amazon",
+          "description": "Defined technical architecture and led development of SDK enabling Alexa integration across mobile devices worldwide",
+          "technologies": [
+            "Android",
+            "iOS",
+            "SDK Architecture",
+            "Voice AI",
+            "API Design"
+          ],
+          "links": {}
+        },
+        {
+          "id": "amazon-mobile-platforms",
+          "year": "2020-2022",
+          "title": "Mobile Platform Engineering - Amazon.in",
+          "company": "Amazon",
+          "description": "Built scalable mobile infrastructure and developer tools supporting millions of users across global markets",
+          "technologies": [
+            "Android",
+            "Kotlin",
+            "Java",
+            "Mobile Architecture",
+            "Performance Optimization"
+          ],
+          "links": {}
+        }
+      ]
+    },
+    {
+      "category": "ai",
+      "id": "ai-experience",
+      "title": "AI & Machine Learning",
+      "description": "Building intelligent systems from research to production, with expertise in AI agents, machine learning infrastructure, and scalable AI architectures that accelerate engineering workflows.",
+      "icons": {
+        "primary": "brain",
+        "secondary": "cpu"
+      },
+      "highlights": [
+        {
+          "icon": "zap",
+          "label": "AI-Driven Developer Tools"
+        },
+        {
+          "icon": "brain",
+          "label": "Machine Learning Research"
+        },
+        {
+          "icon": "cpu",
+          "label": "Production AI Systems"
+        }
+      ],
+      "alternateBackground": false,
+      "projects": [
+        {
+          "id": "ai-agents-2024",
+          "year": "2024-2025",
+          "title": "AI-Driven Developer Agents",
+          "company": "Amazon",
+          "description": "Building AI agents and MCP integrations to accelerate engineering workflows across development teams",
+          "technologies": [
+            "AI Agents",
+            "MCP",
+            "Python",
+            "Distributed Systems",
+            "Machine Learning"
+          ],
+          "links": {}
+        },
+        {
+          "id": "ml-research-2019",
+          "year": "2019-2020",
+          "title": "Machine Learning Research & Implementation",
+          "company": "Academic & Personal Projects",
+          "description": "Deep learning foundation research and practical implementations across computer vision and NLP domains",
+          "technologies": [
+            "TensorFlow",
+            "PyTorch",
+            "Computer Vision",
+            "NLP",
+            "Deep Learning"
+          ],
+          "links": {
+            "github": "https://github.com/krypten/Deep-Learning",
+            "article": "https://github.com/krypten/MobileDeepColorization"
+          }
+        },
+        {
+          "id": "deep-learning-nanodegree-2017",
+          "year": "2017",
+          "title": "Deep Learning Foundation Nanodegree",
+          "company": "Udacity",
+          "description": "Comprehensive deep learning program covering neural networks, convolutional networks, recurrent networks, and generative adversarial networks",
+          "technologies": [
+            "TensorFlow",
+            "Neural Networks",
+            "CNN",
+            "RNN",
+            "GAN",
+            "Python"
+          ],
+          "links": {
+            "article": "https://www.udacity.com/certificate/e/72699778-b570-11e7-a0a7-7b09ea5eb1da"
+          }
+        }
+      ]
+    },
+    {
+      "category": "security",
+      "id": "security-experience",
+      "title": "Security & Cyber Defense",
+      "description": "Comprehensive cybersecurity expertise spanning offensive and defensive security practices, with proven experience scaling security certifications and establishing security best practices across hundreds of engineers at Amazon.",
+      "icons": {
+        "primary": "shield",
+        "secondary": "lock"
+      },
+      "highlights": [
+        {
+          "icon": "target",
+          "label": "Penetration Testing"
+        },
+        {
+          "icon": "shield",
+          "label": "Defensive Security"
+        },
+        {
+          "icon": "award",
+          "label": "HTB CPTS Certified"
+        }
+      ],
+      "alternateBackground": true,
+      "projects": [
+        {
+          "id": "ctf-workbook-2024",
+          "year": "2024-2025",
+          "title": "CTF Workbook",
+          "company": "Personal Project",
+          "description": "Comprehensive documentation of offensive tactics and exploits for cybersecurity education and training through solutions CTF",
+          "technologies": [
+            "Penetration Testing",
+            "Documentation",
+            "Security Research",
+            "Web Security",
+            "Network Security"
+          ],
+          "links": {
+            "github": "https://github.com/krypten/ctf-workbook",
+            "article": "https://krypten.github.io/ctf-workbook/"
+          }
+        },
+        {
+          "id": "htb-cpts-2024",
+          "year": "2024",
+          "title": "HTB Certified Penetration Testing Specialist",
+          "company": "HackTheBox",
+          "description": "Advanced penetration testing certification covering comprehensive offensive security methodologies",
+          "technologies": [
+            "Penetration Testing",
+            "Vulnerability Assessment",
+            "Network Security",
+            "Web Application Security"
+          ],
+          "links": {}
+        },
+        {
+          "id": "amazon-security-certs",
+          "year": "2018-2024",
+          "title": "Security Certifications at Scale",
+          "company": "Amazon",
+          "description": "Led security certification for 10+ services and 100+ threats identified across multiple engineering projects, establishing security best practices",
+          "technologies": [
+            "Security Training",
+            "Compliance",
+            "Risk Assessment",
+            "Security Architecture"
+          ],
+          "links": {}
+        }
+      ]
+    },
+    {
+      "category": "robotics",
+      "id": "robotics-experience",
+      "title": "Robotics & Autonomous Systems",
+      "description": "Cross-disciplinary expertise in robotics systems, autonomous navigation, and control algorithms, with progression from theoritical research to practical implementation in simulation environment and sensor integration projects.",
+      "icons": {
+        "primary": "bot",
+        "secondary": "plane"
+      },
+      "highlights": [
+        {
+          "icon": "plane",
+          "label": "Flying Car Systems"
+        },
+        {
+          "icon": "navigation",
+          "label": "Autonomous Navigation"
+        },
+        {
+          "icon": "cog",
+          "label": "Control Systems"
+        }
+      ],
+      "alternateBackground": true,
+      "projects": [
+        {
+          "id": "drone-simulation-2016",
+          "year": "2016-2018",
+          "title": "Drone / Flying Car Development",
+          "company": "Personal Project",
+          "description": "Research and development of drone and quadcopters, focusing on sensor integration, simulation and autonomous navigation",
+          "technologies": [
+            "Python",
+            "Control Systems",
+            "Path Planning",
+            "State Estimation",
+            "Kalman Filters",
+            "PID Controllers",
+            "Computer Vision",
+            "Robotics"
+          ],
+          "links": {
+            "github": "https://github.com/krypten/FlyingCar-MotionPlanning",
+            "demo": "https://github.com/krypten/FlyingCar-Controller",
+            "article": "https://github.com/krypten/FlyingCar-Estimation"
+          }
+        },
+        {
+          "id": "flying-car-nanodegree",
+          "year": "2016",
+          "title": "Flying Car & Autonomous Systems",
+          "company": "Udacity Nanodegree",
+          "description": "Comprehensive autonomous aerial vehicle development covering motion planning algorithms, flight control systems, and state estimation. Implemented 3D path planning, PID controllers, and Extended Kalman Filters for autonomous flight operations.",
+          "technologies": [
+            "C++",
+            "ROS",
+            "Computer Vision",
+            "Sensor Fusion",
+            "Drone"
+          ],
+          "links": {
+            "article": "https://www.udacity.com/certificate/e/6fb0c06c-62ed-11e8-8569-1722c8ebe776"
+          }
+        }
+      ]
+    },
+    {
+      "category": "vr",
+      "id": "vr-experience",
+      "title": "VR & Immersive Technology",
+      "description": "Immersive technology expertise combining technical excellence with compelling narrative design, from comprehensive VR development training to collaborative storytelling projects that showcase innovation in virtual reality experiences.",
+      "icons": {
+        "primary": "headphones",
+        "secondary": "eye"
+      },
+      "highlights": [
+        {
+          "icon": "gamepad2",
+          "label": "VR Game Development"
+        },
+        {
+          "icon": "layers",
+          "label": "Immersive Design"
+        },
+        {
+          "icon": "eye",
+          "label": "User Experience"
+        }
+      ],
+      "alternateBackground": false,
+      "projects": [
+        {
+          "id": "outliver-vr-2020",
+          "year": "2020",
+          "title": "Outliver VR Game",
+          "company": "Team Daito",
+          "description": "Co-led collaborative VR storytelling project with immersive gameplay mechanics and narrative design",
+          "technologies": [
+            "Unity",
+            "VR Development",
+            "C#",
+            "Game Design",
+            "3D Graphics"
+          ],
+          "links": {
+            "article": "https://medium.com/@chaitiagrawal/outliver-game-vr-team-daito-project-913b01ea699d"
+          }
+        },
+        {
+          "id": "magical-world-vr-2019",
+          "year": "2019",
+          "title": "Magical World VR",
+          "company": "Personal Project",
+          "description": "Immersive VR experience featuring magical environments with interactive elements and enchanting visual storytelling",
+          "technologies": [
+            "Unity",
+            "VR Development",
+            "C#",
+            "3D Modeling",
+            "Interactive Design"
+          ],
+          "links": {
+            "github": "https://github.com/krypten/MagicalWorldVR",
+            "demo": "https://www.youtube.com/watch?v=Ac_jhG6mIO4",
+            "article": "https://medium.com/@chaitiagrawal/vr-the-magical-world-de074030324c"
+          }
+        },
+        {
+          "id": "old-museum-vr-2019",
+          "year": "2019",
+          "title": "Night at the Museum VR",
+          "company": "Personal Project",
+          "description": "Virtual reality museum experience bringing historical artifacts to life through immersive storytelling and interactive exploration",
+          "technologies": [
+            "Unity",
+            "VR Development",
+            "C#",
+            "3D Graphics",
+            "Historical Simulation"
+          ],
+          "links": {
+            "github": "https://github.com/krypten/OldMuseumVR",
+            "demo": "https://www.youtube.com/watch?v=M-ksQrhFI-Q",
+            "article": "https://medium.com/@chaitiagrawal/night-at-the-museum-through-vr-284aed4f2393"
+          }
+        },
+        {
+          "id": "puzzler-vr-2019",
+          "year": "2019",
+          "title": "Puzzler VR Game",
+          "company": "Personal Project",
+          "description": "First VR game experience featuring puzzle-solving mechanics with intuitive hand tracking and spatial interaction design",
+          "technologies": [
+            "Unity",
+            "VR Development",
+            "C#",
+            "Game Mechanics",
+            "Hand Tracking"
+          ],
+          "links": {
+            "github": "https://github.com/krypten/PuzzlerVR",
+            "demo": "https://www.youtube.com/watch?v=JzLzY1imT2Y",
+            "article": "https://medium.com/@chaitiagrawal/first-vr-experience-game-puzzler-216839b2b928"
+          }
+        },
+        {
+          "id": "vr-nanodegree-2019",
+          "year": "2018",
+          "title": "VR Developer Nanodegree",
+          "company": "Udacity",
+          "description": "Comprehensive VR development program covering Unity, interaction design, and immersive experience creation",
+          "technologies": [
+            "Unity",
+            "C#",
+            "VR SDKs",
+            "3D Modeling",
+            "User Experience Design"
+          ],
+          "links": {
+            "github": "https://github.com/krypten?tab=repositories&q=VR&type=&language=&sort=",
+            "article": "http://www.udacity.com/certificate/e/0bd61306-294c-11e8-9556-83cbcd5a0ce8"
+          }
+        }
+      ]
+    }
+  ],
+  "skills": {
+    "technical": [
+      "System Architecture",
+      "Distributed Systems",
+      "AI/ML",
+      "Cybersecurity",
+      "Android Development",
+      "iOS Development",
+      "Python",
+      "Java",
+      "Kotlin",
+      "C++",
+      "JavaScript/TypeScript",
+      "Cloud Architecture",
+      "API Design",
+      "Database Design"
+    ],
+    "leadership": [
+      "Technical Strategy",
+      "Team Building",
+      "Cross-functional Collaboration",
+      "Product Architecture",
+      "Engineering Management",
+      "Mentorship",
+      "Technical Decision Making",
+      "Stakeholder Communication"
+    ],
+    "domains": [
+      "Artificial Intelligence",
+      "Cybersecurity & Penetration Testing",
+      "Mobile Development",
+      "Voice AI & Alexa",
+      "VR/AR & Immersive Technology",
+      "Robotics & Autonomous Systems",
+      "E-commerce & Retail Technology",
+      "Developer Tools & SDKs"
+    ],
+    "certifications": [
+      {
+        "name": "HTB Certified Penetration Testing Specialist (CPTS)",
+        "url": "https://academy.hackthebox.com/achievement/badge/e4b8c8d4-7f2a-11ef-b864-bea50ffe6cb4"
+      },
+      {
+        "name": "Udacity Flying Car Nanodegree",
+        "url": "https://www.udacity.com/certificate/e/6fb0c06c-62ed-11e8-8569-1722c8ebe776"
+      },
+      {
+        "name": "Udacity VR Developer Nanodegree",
+        "url": "http://www.udacity.com/certificate/e/0bd61306-294c-11e8-9556-83cbcd5a0ce8"
+      },
+      {
+        "name": "Udacity Deep Learning Foundation Nanodegree",
+        "url": "https://www.udacity.com/certificate/e/72699778-b570-11e7-a0a7-7b09ea5eb1da"
+      }
+    ]
+  },
+  "education": [
+    {
+      "degree": "B.Tech., Information Technology",
+      "institution": "IIIT Allahabad",
+      "period": "2012-2016",
+      "description": "Bachelor of Technology in Information Technology with focus on software engineering and computer systems"
+    }
+  ]
+}
