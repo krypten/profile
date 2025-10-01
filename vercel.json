@@ -16,11 +16,6 @@
   "env": {
     "NODE_ENV": "production"
   },
-  "functions": {
-    "app/**/*.{js,ts,tsx}": {
-      "maxDuration": 10
-    }
-  },
   "headers": [
     {
       "source": "/(.*)",
