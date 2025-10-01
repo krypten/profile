@@ -120,7 +120,7 @@ export function ExperienceCard({
                     <Button
                       variant="outline"
                       size="sm"
-                      className="h-8 w-8 sm:h-9 sm:w-9 p-0 hover:bg-primary/10 hover:border-primary/30 hover:scale-105 transition-all duration-150"
+                      className="h-8 w-8 sm:h-7 sm:w-7 p-0 hover:bg-primary/10 hover:border-primary/30 hover:scale-105 transition-all duration-150"
                       asChild
                     >
                       <a
@@ -136,7 +136,7 @@ export function ExperienceCard({
                     <Button
                       variant="outline"
                       size="sm"
-                      className="h-8 w-8 sm:h-9 sm:w-9 p-0 hover:bg-primary/10 hover:border-primary/30 hover:scale-105 transition-all duration-150"
+                      className="h-8 w-8 sm:h-7 sm:w-7 p-0 hover:bg-primary/10 hover:border-primary/30 hover:scale-105 transition-all duration-150"
                       asChild
                     >
                       <a
@@ -152,7 +152,7 @@ export function ExperienceCard({
                     <Button
                       variant="outline"
                       size="sm"
-                      className="h-8 w-8 sm:h-9 sm:w-9 p-0 hover:bg-primary/10 hover:border-primary/30 hover:scale-105 transition-all duration-150"
+                      className="h-8 w-8 sm:h-7 sm:w-7 p-0 hover:bg-primary/10 hover:border-primary/30 hover:scale-105 transition-all duration-150"
                       asChild
                     >
                       <a

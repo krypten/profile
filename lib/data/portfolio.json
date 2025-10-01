@@ -230,7 +230,9 @@
             "Network Security",
             "Web Application Security"
           ],
-          "links": {}
+          "links": {
+            "article": "/htb_cpts.pdf"
+          }
         },
         {
           "id": "amazon-security-certs",
@@ -474,7 +476,7 @@
     "certifications": [
       {
         "name": "HTB Certified Penetration Testing Specialist (CPTS)",
-        "url": "https://academy.hackthebox.com/achievement/badge/e4b8c8d4-7f2a-11ef-b864-bea50ffe6cb4"
+        "url": "/htb_cpts.pdf"
       },
       {
         "name": "Udacity Flying Car Nanodegree",
